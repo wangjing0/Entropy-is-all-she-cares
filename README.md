@@ -2,8 +2,11 @@
 
 1, A mini introduction to on phase space analysis
 a _Delay embedding and Phase space representation of a time series_
+
  **Linear and Chaotic system exmaple**
  <p align="center">
   <img src="Fig1.png" height="500" >
 </p>
+
+b _Differential Entropy and Entropy ratio_
 
