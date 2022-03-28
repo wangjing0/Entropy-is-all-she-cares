@@ -1,4 +1,4 @@
-**In this [article](https://github.com/wangjing0/Entropy-is-all-she-cares/blob/main/entropy2021.pdf), we looked into the EEG signal from the perspective of a dynamical system. We argue that normal and abnormal brain activities can be (1) visualized in the phase space to the best interest of experimenters, (2) manifested in the changes of dynamics, and most importantly, (3) captured by an intrinsic measure, namely entropy, of the system. (To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021)**
+**  In this [article](https://github.com/wangjing0/Entropy-is-all-she-cares/blob/main/entropy2021.pdf), we looked into the EEG signal from the perspective of a dynamical system. We argue that normal and abnormal brain activities can be (1) visualized in the phase space to the best interest of experimenters, (2) manifested in the changes of dynamics, and most importantly, (3) captured by an intrinsic measure, namely entropy, of the system. (To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021)**
 
 ## 1, A mini intro to delayed time embedding in time series analysis
  **Linear and Chaotic system**
