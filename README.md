@@ -5,6 +5,10 @@
 
 (To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021)
 
+[![IMAGE ALT TEXT]()](https://youtu.be/-nsfG3tg8FU "Detect seizures with entropy.")
+
+
+
 ### 1, A mini intro to delayed time embedding in time series analysis
  **Linear and Chaotic system**
  <p align="center">
