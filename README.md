@@ -3,9 +3,9 @@
 * manifested in the changes of dynamics, and most importantly. 
 * captured by an intrinsic measure, namely entropy, of the system.
 
-(To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021)
 
-[![IMAGE ALT TEXT]()](https://youtu.be/-nsfG3tg8FU "Detect seizures with entropy.")
+
+[To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021](https://youtu.be/-nsfG3tg8FU "Detect seizures with entropy.")
 
 
 
