@@ -5,7 +5,7 @@
 
 
 
-[To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021](https://youtu.be/-nsfG3tg8FU "Detect seizures with entropy.")
+![To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021](https://youtu.be/-nsfG3tg8FU "Detect seizures with entropy.")
 
 
 
