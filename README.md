@@ -5,7 +5,7 @@
 
 
 
-[Peer-reviewed and Published in IEEE Applied Imagery and Pattern Recognition 2021](https://ieeexplore.ieee.org/document/9762164/)
+[Peer-reviewed and Published on IEEE Applied Imagery and Pattern Recognition 2021](https://ieeexplore.ieee.org/document/9762164/)
 
 
 ### 1, A mini intro to delayed time embedding in time series analysis
