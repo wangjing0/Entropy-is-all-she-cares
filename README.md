@@ -5,8 +5,7 @@
 
 
 
-[To be appear in IEEE Artificial Intelligence and Pattern Recognition 2021](https://youtu.be/-nsfG3tg8FU "Detect seizures with entropy.")
-
+[Peer previewed and Published in IEEE Applied Imagery and Pattern Recognition 2021](https://ieeexplore.ieee.org/document/9762164/)
 
 
 ### 1, A mini intro to delayed time embedding in time series analysis
